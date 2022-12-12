@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @tonmoycse
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hello 👋, I'm Tonmoy Sarker</h1>
+<h3 align="center">A passionate Programmer from Bangladesh</h3>
 
-<!---
-tonmoycse/tonmoycse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoycse&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoycse" /> </p>
+
+<p align="left"> <a href="https://twitter.com/@tonmoycsebd" target="blank"><img src="https://img.shields.io/twitter/follow/tonmoycsebd?logo=twitter&style=for-the-badge" alt="@tonmoycsebd" /></a> </p>
+
+- 🌱 I’m currently learning **CSE Fundamentals**
+
+- 🏋 About Me **STUDENT OF CSE . Dream To Be A Programmer.**
+
+- 📫 How to reach me **tonmoycsebd@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@tonmoycsebd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tonmoycsebd" height="30" width="40" /></a>
+<a href="https://fb.com/tonmoy.sarker.csebd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tonmoy.sarker.csebd" height="30" width="40" /></a>
+<a href="https://instagram.com/tonmoysarker_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonmoysarker_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tonmoycsebd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tonmoycsebd" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/tonmoycsebd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tonmoycsebd" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoycse&show_icons=true&locale=en&layout=compact" alt="tonmoycse" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoycse&show_icons=true&locale=en" alt="tonmoycse" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoycse&" alt="tonmoycse" /></p>
